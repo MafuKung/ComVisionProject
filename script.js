@@ -27,8 +27,8 @@ var color_choices = [
 
 var available_models = {
     "microsoft-coco": {
-        "name": "Microsoft COCO",
-        "version": 9,
+        "name": "thailand-street-sights",
+        "version": 10,
         "video": "",
         "confidence": 0.6,
         "imageGrid": [
